@@ -30,9 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+remote_theme: samarsault/plainwhite-jekyll
 
-
-theme: minima
+theme: plainwhite
 plugins:
   - jekyll-feed
 
@@ -59,3 +59,35 @@ exclude:
 
 include:
   - _pages
+
+
+plainwhite:
+  name: Romerito Campos
+  portfolio_image: assets/foto.png
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  sitemap: true
+  navigation:
+    - title: About
+      url: "/about"
+    - title: Ensino
+      url: "/ensino"
+  condensed_mobile:
+    - home
+    - post
+    - page
+
+  social_links:
+    twitter: romeritocampos
+    github: rocampos
+  
+
+collections_dir: collections
+
+collections:
+  designweb:
+    output: true
+    permalink: /designweb/:name/
+  web:
+    output: true
+    permalink: /web/:name/
