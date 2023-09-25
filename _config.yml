@@ -64,7 +64,7 @@ include:
 plainwhite:
   name: Romerito Campos
   portfolio_image: assets/foto.png
-  tagline: Developer. Designer
+  tagline: Developer. Professor
   date_format: "%b %-d, %Y"
   sitemap: true
   navigation:
@@ -80,6 +80,8 @@ plainwhite:
   social_links:
     twitter: romeritocampos
     github: rocampos
+    linkedIn: /in/romeritocampos
+    youtube: romeritocampos
   
 
 collections_dir: collections
