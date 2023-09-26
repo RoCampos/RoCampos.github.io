@@ -10,4 +10,4 @@ Neste página, compartilho algumas anotações e materias autorias sobre discipl
 
 ## IFRN
 
-[Design Web - 2023]({% link _designweb/designweb.md %})
+[Design Web - 2023](./aulas/designweb2023/readme.md)
