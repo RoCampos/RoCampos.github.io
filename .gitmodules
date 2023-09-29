@@ -1,8 +1,0 @@
-[submodule "collections/_designweb2023"]
-	path = collections/_designweb2023
-	url = https://github.com/RomeritoCamposProjetos/DesignWeb.git
-[submodule "collections/designweb2023"]
-	path = collections/designweb2023
-[submodule "designweb2023"]
-	path = designweb2023
-	url = https://github.com/RomeritoCamposProjetos/DesignWeb.git
