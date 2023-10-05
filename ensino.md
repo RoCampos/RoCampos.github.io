@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ensino
-permalink: /Ensino
+permalink: /ensino/
 ---
 
 # Ensino
