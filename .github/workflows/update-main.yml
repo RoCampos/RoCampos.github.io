@@ -1,0 +1,33 @@
+name: Repository Dispatch
+on:
+  repository_dispatch:
+    types: [my-event]
+jobs:
+  myEvent:
+    name: 'Submodule Sync'
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          repository: RoCampos/RoCampos.github.io
+          token: ${{ secrets.TOKEN }}
+          submodules: true
+
+      - name: Git submodule Update
+        run: |
+          git pull --recurse-submodules
+          git submodule update --remote --recursive
+
+      
+      - name: Commit Update
+        run: |
+          git config --global user.name 'Romerito Campos'
+          git config --global user.email 'romerito.campos@gmail.com'
+          git remote set-url origin https://x-access-token:${{ secrets.UPDATE_SUBMODULES }}@github.com/${{ github.repository }}
+          git commit -am "Auto updated submodule references" && git push || echo "No changes to commit"

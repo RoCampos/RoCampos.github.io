@@ -1,0 +1,3 @@
+[submodule "aulas/designweb2023"]
+	path = aulas/designweb2023
+	url = https://github.com/RomeritoCamposProjetos/DesignWeb.git

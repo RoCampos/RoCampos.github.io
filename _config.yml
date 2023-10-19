@@ -83,12 +83,22 @@ plainwhite:
     youtube: romeritocampos
   
 
-collections_dir: collections
+collections_dir: aulas
 
 collections:
-  designweb:
+  designweb2023:
     output: true
-    permalink: /designweb/:name/
+    permalink: /designweb/:name             
   web:
     output: true
     permalink: /web/:name/
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "designweb2023"
+    values:
+      layout: "page"
+      permalink: /designweb/:name/
+
