@@ -12,7 +12,9 @@ Neste página, compartilho algumas anotações e materias autorias sobre discipl
 
 ### 2024
 
-[Programação de Sistemas para Internet](./aulas/Web2024/Readme.md)
+- [Programação de Sistemas para Internet](./aulas/Web2024/Readme.md)
+- [Design Web e Arquitetura da Informação](./aulas/design2024/Readme.md)
 
 ### 2023
-[Design Web - 2023](./aulas/designweb2023/readme.md)
+
+- [Design Web - 2023](./aulas/designweb2023/readme.md)
