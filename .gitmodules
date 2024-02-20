@@ -1,3 +1,6 @@
 [submodule "aulas/designweb2023"]
 	path = aulas/designweb2023
 	url = https://github.com/RomeritoCamposProjetos/DesignWeb.git
+[submodule "aulas/Web2024"]
+	path = aulas/Web2024
+	url = https://github.com/RomeritoCamposProjetos/Web2024
