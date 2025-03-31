@@ -10,6 +10,11 @@ Neste página, compartilho algumas anotações e materias autorias sobre discipl
 
 ## IFRN
 
+
+### 2025
+
+- [Autoria Web](./aulas/autoria-2025/Readme.md)
+
 ### 2024
 
 - [Programação de Sistemas para Internet](./aulas/Web2024/Readme.md)
