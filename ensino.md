@@ -14,6 +14,7 @@ Neste página, compartilho algumas anotações e materias autorias sobre discipl
 ### 2025
 
 - [Autoria Web](./aulas/autoria-2025/Readme.md)
+- [Design Web](./aulas/designweb-2025/Readme.md)
 
 ### 2024
 
