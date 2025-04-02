@@ -10,3 +10,6 @@
 [submodule "aulas/autoria-2025"]
 	path = aulas/autoria-2025
 	url = https://github.com/RomeritoCamposProjetos/autoria-2025.git
+[submodule "aulas/designweb-2025"]
+	path = aulas/designweb-2025
+	url = https://github.com/RomeritoCamposProjetos/designweb-2025.git
