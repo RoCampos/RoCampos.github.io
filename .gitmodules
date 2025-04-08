@@ -13,3 +13,6 @@
 [submodule "aulas/designweb-2025"]
 	path = aulas/designweb-2025
 	url = https://github.com/RomeritoCamposProjetos/designweb-2025.git
+[submodule "aulas/web-2025"]
+	path = aulas/web-2025
+	url = https://github.com/RomeritoCamposProjetos/web-2025.git

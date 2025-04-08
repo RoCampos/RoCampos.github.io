@@ -15,6 +15,7 @@ Neste página, compartilho algumas anotações e materias autorias sobre discipl
 
 - [Autoria Web](./aulas/autoria-2025/Readme.md)
 - [Design Web](./aulas/designweb-2025/Readme.md)
+- [Programação de Sistemas para Internet](./aulas/web-2025/Readme.md)
 
 ### 2024
 
